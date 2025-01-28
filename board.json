@@ -1,0 +1,180 @@
+{
+    "board": [
+      {
+        "name": "Angel Protection",
+        "type": "angel",
+        "owner": "",
+        "bonus": 50,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "You are blessed with +50 sanity!",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Shade",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 10,
+        "visitCost": 5,
+        "description": "Shade appears and terrifies you, making you lose 5 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Tarot Cards",
+        "type": "gamble",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "Let the Tarot Cards decide your fate!",
+        "hidingSpots": [],
+        "cards": ["The Fool", "The Sun", "The Moon", "The Tower", "The Devil", "Death", "The High Priestess"]
+      },
+      {
+        "name": "Spirit",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 10, 
+        "visitCost": 5,
+        "description": "Spirit appears and terrifies you, making you lose 5 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Demon",
+        "type": "hunt",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "The Demon is hunting! Where will you hide?",
+        "hidingSpots": ["closet", "bathroom", "under the bed"],
+        "cards": []
+      },
+      {
+        "name": "Mare",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 15, 
+        "visitCost": 8,
+        "description": "Mare appears and terrifies you, making you lose 8 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Tarot Cards",
+        "type": "gamble",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "Let the Tarot Cards decide your fate!",
+        "hidingSpots": [],
+        "cards": ["The Fool", "The Sun", "The Moon", "The Tower", "The Devil", "Death", "The High Priestess"]
+      },
+      {
+        "name": "Obake",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 15, 
+        "visitCost": 8,
+        "description": "Obake appears and terrifies you, making you lose 8 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Angel Protection",
+        "type": "angel",
+        "owner": "",
+        "bonus": 50,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "You are blessed with +50 sanity!",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Yokai",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 20, 
+        "visitCost": 13,
+        "description": "Yokai appears and terrifies you, making you lose 13 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Tarot Cards",
+        "type": "gamble",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "Let the Tarot Cards decide your fate!",
+        "hidingSpots": [],
+        "cards": ["The Fool", "The Sun", "The Moon", "The Tower", "The Devil", "Death", "The High Priestess"]
+      },
+      {
+        "name": "Onryo",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 20, 
+        "visitCost": 13,
+        "description": "Onryo appears and terrifies you, making you lose 13 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Moroi",
+        "type": "hunt",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "The Moroi is hunting! Where will you hide?",
+        "hidingSpots": ["closet", "bathroom", "under the bed"],
+        "cards": []
+      },
+      {
+        "name": "Deogen",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 25, 
+        "visitCost": 20,
+        "description": "Onryo appears and terrifies you, making you lose 20 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      },
+      {
+        "name": "Tarot Cards",
+        "type": "gamble",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 0,
+        "visitCost": 0,
+        "description": "Let the Tarot Cards decide your fate!",
+        "hidingSpots": [],
+        "cards": ["The Fool", "The Sun", "The Moon", "The Tower", "The Devil", "Death", "The High Priestess"]
+      },
+      {
+        "name": "Revenant",
+        "type": "ghost",
+        "owner": "",
+        "bonus": 0,
+        "bondCost": 25, 
+        "visitCost": 20,
+        "description": "Revenant appears and terrifies you, making you lose 20 sanity.",
+        "hidingSpots": [],
+        "cards": []
+      }
+    ]
+  }
